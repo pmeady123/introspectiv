@@ -14,5 +14,4 @@ Introspectiv is a note-taking app with AI-powered matching that connects people 
 ## Contact
 
 For questions or concerns, please contact us at:
-- **Privacy**: privacy@introspectiv.app
-- **Legal**: legal@introspectiv.app
+- **Email**: patrick.m.eady@gmail.com

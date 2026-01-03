@@ -89,7 +89,7 @@ You have the right to:
 - **Incognito Mode**: Prevent specific notes from being processed or shared
 - **Opt-Out**: Disable matching features while retaining note functionality
 
-To exercise these rights, contact us at privacy@introspectiv.app.
+To exercise these rights, contact us at patrick.m.eady@gmail.com.
 
 ## Children's Privacy
 
@@ -107,7 +107,7 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 
 If you have questions about this Privacy Policy, please contact us at:
 
-**Email**: privacy@introspectiv.app
+**Email**: patrick.m.eady@gmail.com
 
 ---
 
